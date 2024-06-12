@@ -10,3 +10,5 @@
 - Calculate equations with PI (π) value
 - Auto save last answer
 - Offline support ( *just visit the calculator once online & then you can visit this offline* )
+
+![2024-06-13 02_47_09-Settings](https://github.com/vimalj/scientific-calculator/assets/45177365/6774959d-70a3-4a46-a051-dde8e849ba29)
